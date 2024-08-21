@@ -1,4 +1,4 @@
-# A study utilizing a boxplot and histograms to visualize data collected based on user data plans for cell phones.
+# Feature Engineering and Model Development: A Strategic Approach to Data Science.
 
 ## <strong> Development Environment: </strong> ## 
 Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
