@@ -1,4 +1,4 @@
-# A study utilizing histograms to analyze customer instacart orders.
+# Advanced Data Cleaning and Preprocessing: Techniques for Accurate Analysis
 
 ## <strong> Development Environment: </strong> ## 
 Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
