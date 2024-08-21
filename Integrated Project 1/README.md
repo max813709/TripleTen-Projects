@@ -1,5 +1,5 @@
-Integrated Project 1
-# A study utilizing scatterplots, boxplots and histograms to visualize data collected based on user data on various video game platforms in North America, Europe and Japan.
+# Integrated Project 1
+## A study utilizing scatterplots, boxplots and histograms to visualize data collected based on user data on various video game platforms in North America, Europe and Japan.
 
 ## <strong> Development Environment: </strong> ## 
 Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
