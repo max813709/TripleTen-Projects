@@ -1,4 +1,4 @@
-# A study utilizing Random Forest models, Decision Tree models, F1 scores, Precision scores, and Accuracy scores.
+# Evaluating Classification Models with a Focus on Data Splitting, Feature Analysis, and Hyperparameter Tuning.
 
 ## <strong> Development Environment: </strong> ## 
 Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
