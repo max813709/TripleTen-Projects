@@ -1,4 +1,4 @@
-# A study testing datasets to determine repeat customers of a banking institution, utilizing F1 scores, logistic regression, decision tree models, and a random forrest model, as well as recall scores, AUC-ROC scoores and precision scores.
+# Enhancing Predictive Accuracy for Customer Churn Through Imbalanced Data Techniques.
 ## <strong> Development Environment: </strong> ## 
 Visual Studio Code Version 1.88.1 & Anaconda3 (Python 3.11.7)
 
