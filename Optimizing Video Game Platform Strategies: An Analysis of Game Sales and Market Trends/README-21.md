@@ -1,4 +1,4 @@
-# Video Game Platform Analysis
+# Optimizing Video Game Platform Strategies: An Analysis of Game Sales and Market Trends
 ## A study utilizing scatterplots, boxplots and histograms to visualize data collected based on user data on various video game platforms in North America, Europe and Japan.
 
 ## <strong> Development Environment: </strong> ## 
