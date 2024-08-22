@@ -1,4 +1,4 @@
-# Zyfra Gold Mining Analysis
+# Predictive Modeling and Profitability Analysis for Zyfra Gold Mining Operations
 ## A study utilizing boxplots and histograms to create a model aimed at boosting efficiency in the gold mining and refining industry. 
 
 # <strong> Development Environment: </strong> ## 
